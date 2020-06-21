@@ -14,12 +14,12 @@ The dataset contains records of 103904 passengers. The dataset had some missing 
 
 The dataset was more or less balanced with 9:11 ratio for satisfied and dissatisfied customers.
 
-**Count Plot**
+![Count Plot](https://github.com/muhammedsalihk/Passenger-Satisfaction-Predictor/blob/master/Images/Image%201.png)
 
 ## Methodology
 A detailed exploratory analysis was perfomed on the data and based on the inferences obtained, a set of relevant features were selected and some new features were engineered.
 
-**Sample EDA**
+![EDA Sample](https://github.com/muhammedsalihk/Passenger-Satisfaction-Predictor/blob/master/Images/Image%202.png)
 
 The data was divided into two sets (train and test) in an 80-20 ratio. the hyperparameters were tuned based on a 4 fold cross validation approach using sklearn’s GridSearchCV. Finally, the performance of the different models with the tuned set of hyperparameters were evaluated on the test set.
 
