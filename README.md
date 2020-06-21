@@ -37,6 +37,7 @@ The following models were evaluated for performance on each of the three samplin
     7. XG Boost Random Forest Classifier
 
 The performance of the different models are summarised below.
+
 ![Results](https://github.com/muhammedsalihk/Passenger-Satisfaction-Predictor/blob/master/Images/Results.png)
 
 The **XGBoost Classifier** performed the best giving an **accuaracy score of 0.965**
