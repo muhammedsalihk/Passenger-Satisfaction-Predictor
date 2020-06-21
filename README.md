@@ -1,4 +1,4 @@
-# Passenger_Satisfaction_Predictor
+# Passenger Satisfaction Predictor
 
 ## Introduction
 Classifying customers who are satisified and dissatisfied with the services of a company is very helpful in devleoping focused marketing and user retention strategies. 
@@ -39,3 +39,4 @@ The following models were evaluated for performance on each of the three samplin
 The performance of the different models are summarised below.
 ![Results](https://github.com/muhammedsalihk/Passenger-Satisfaction-Predictor/blob/master/Images/Results.png)
 
+The **XGBoost Classifier** performed the best giving an **accuaracy score of 0.965**
